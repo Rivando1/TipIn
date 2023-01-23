@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TipIn</string>
+    <string name="form_input">Form Input</string>
+    <string name="nama">nama</string>
+    <string name="hari_tanggal">Hari/tanggal</string>
+    <string name="note">note</string>
+    <string name="other">other</string>
+    <string name="salary">salary</string>
+</resources>

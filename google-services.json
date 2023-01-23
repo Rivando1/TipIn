@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "867041025754",
+    "project_id": "tipin-7e100",
+    "storage_bucket": "tipin-7e100.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867041025754:android:d49e390c0383ec77c2cfe3",
+        "android_client_info": {
+          "package_name": "com.Jagoanrektor.tipin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "867041025754-j6uri301qc0sqt362v61fohvqalb1hmn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Jagoanrektor.tipin",
+            "certificate_hash": "f558c5027602d907eb062ec5bb04ef4b4262ee6e"
+          }
+        },
+        {
+          "client_id": "867041025754-v9id2rhkspiietv0k29nhrfidntb188c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlXJFwwQBiuhsozUjIuV4k0Kr3iSP_v8M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "867041025754-v9id2rhkspiietv0k29nhrfidntb188c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
